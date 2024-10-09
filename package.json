@@ -1,0 +1,16 @@
+{
+  "name": "devtr",
+  "version": "1.0.0",
+  "description": "devTinder, nodejs, react",
+  "main": "index.js",
+  "scripts": {
+    "start": "node /src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "author": "raushan, rishu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  }
+}
